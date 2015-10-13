@@ -2,7 +2,7 @@
 UI Controls for Angular
 
 Components
-==========
+----------
 
     <moui-browse-grid>
 * Populate and update based on JSON data from back-end
