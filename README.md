@@ -5,9 +5,6 @@ Components
 ----------
 
     <moui-browse-grid>
-* Populate and update based on JSON data from back-end
-* Update based on form input
-* Display action icons which then link to callbacks
 
     <moui-form-pane>
 
