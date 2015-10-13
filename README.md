@@ -10,18 +10,21 @@ Components
 * Display action icons which then link to callbacks
 
     <moui-form-pane>
+
 * Allow for dynamic fields
 * Validate fields as focus is shifted
 * Contain buttons each with an action to be fired (e.g. Save, Clear)
 
     <moui-accordion>
+
 * Populate and update header and content based on JSON model data
 
     <moui-accordion-grid>
 
     <moui-dialog>
+
 * Modal dialog with dynamic Title, Buttons and Content (view)
-**Note: Panes can be embedded in this directive (e.g. delete-pane,  approve-pane, form-pane, browse-pane)
+* Note: Panes can be embedded in this directive (e.g. delete-pane,  approve-pane, form-pane, browse-pane)
 
     <moui-checkbox-field>
 
