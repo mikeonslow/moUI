@@ -44,3 +44,5 @@ Components
 \<moui-progress-bar\>
 
 \<moui-switch\>
+
+\<moui-buttonset\>
