@@ -4,7 +4,7 @@ UI Controls for Angular
 Components
 ----------
 
-    <moui-browse-grid>
+\<moui-browse-grid\>
 
     <moui-form-pane>
 
